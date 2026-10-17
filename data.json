@@ -4,8 +4,8 @@
   "limpiezas": 5,
   "cuota": 132,
   "inicio": "2026-08",
-  "actualizado": "2026-10-12",
-  "mostrarNombres": false
+  "mostrarNombres": false,
+  "actualizado": "2026-10-17"
  },
  "deptos": [
   {
@@ -263,7 +263,8 @@
    "orden": 20,
    "pagos": {
     "2026-08": 132,
-    "2026-09": 132
+    "2026-09": 132,
+    "2026-10": 132
    }
   }
  ],
