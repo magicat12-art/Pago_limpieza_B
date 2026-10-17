@@ -1,0 +1,320 @@
+{
+ "cfg": {
+  "costo": 500,
+  "limpiezas": 5,
+  "cuota": 132,
+  "inicio": "2026-08",
+  "actualizado": "2026-10-12",
+  "mostrarNombres": false
+ },
+ "deptos": [
+  {
+   "id": "d101",
+   "depto": "101",
+   "nombre": "",
+   "grupo": "Deptos 1",
+   "obs": "",
+   "exento": true,
+   "orden": 1,
+   "pagos": {}
+  },
+  {
+   "id": "d201",
+   "depto": "201",
+   "nombre": "",
+   "grupo": "Deptos 1",
+   "obs": "",
+   "exento": false,
+   "orden": 2,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d301",
+   "depto": "301",
+   "nombre": "",
+   "grupo": "Deptos 1",
+   "obs": "",
+   "exento": false,
+   "orden": 3,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d401",
+   "depto": "401",
+   "nombre": "",
+   "grupo": "Deptos 1",
+   "obs": "",
+   "exento": false,
+   "orden": 4,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d501",
+   "depto": "501",
+   "nombre": "",
+   "grupo": "Deptos 1",
+   "obs": "",
+   "exento": false,
+   "orden": 5,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d102",
+   "depto": "102",
+   "nombre": "",
+   "grupo": "Deptos 2",
+   "obs": "",
+   "exento": false,
+   "orden": 6,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d202",
+   "depto": "202",
+   "nombre": "",
+   "grupo": "Deptos 2",
+   "obs": "",
+   "exento": false,
+   "orden": 7,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132,
+    "2026-10": 132
+   }
+  },
+  {
+   "id": "d302",
+   "depto": "302",
+   "nombre": "",
+   "grupo": "Deptos 2",
+   "obs": "",
+   "exento": false,
+   "orden": 8,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d402",
+   "depto": "402",
+   "nombre": "",
+   "grupo": "Deptos 2",
+   "obs": "",
+   "exento": false,
+   "orden": 9,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d502",
+   "depto": "502",
+   "nombre": "",
+   "grupo": "Deptos 2",
+   "obs": "",
+   "exento": false,
+   "orden": 10,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d103",
+   "depto": "103",
+   "nombre": "",
+   "grupo": "Deptos 3",
+   "obs": "",
+   "exento": false,
+   "orden": 11,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d203",
+   "depto": "203",
+   "nombre": "",
+   "grupo": "Deptos 3",
+   "obs": "",
+   "exento": false,
+   "orden": 12,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d303",
+   "depto": "303",
+   "nombre": "",
+   "grupo": "Deptos 3",
+   "obs": "",
+   "exento": false,
+   "orden": 13,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d403",
+   "depto": "403",
+   "nombre": "",
+   "grupo": "Deptos 3",
+   "obs": "",
+   "exento": false,
+   "orden": 14,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d503",
+   "depto": "503",
+   "nombre": "",
+   "grupo": "Deptos 3",
+   "obs": "",
+   "exento": false,
+   "orden": 15,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d104",
+   "depto": "104",
+   "nombre": "",
+   "grupo": "Deptos 4",
+   "obs": "",
+   "exento": false,
+   "orden": 16,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d204",
+   "depto": "204",
+   "nombre": "",
+   "grupo": "Deptos 4",
+   "obs": "",
+   "exento": false,
+   "orden": 17,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d304",
+   "depto": "304",
+   "nombre": "",
+   "grupo": "Deptos 4",
+   "obs": "",
+   "exento": false,
+   "orden": 18,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d404",
+   "depto": "404",
+   "nombre": "",
+   "grupo": "Deptos 4",
+   "obs": "",
+   "exento": false,
+   "orden": 19,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  },
+  {
+   "id": "d504",
+   "depto": "504",
+   "nombre": "",
+   "grupo": "Deptos 4",
+   "obs": "",
+   "exento": false,
+   "orden": 20,
+   "pagos": {
+    "2026-08": 132,
+    "2026-09": 132
+   }
+  }
+ ],
+ "pagosSra": [
+  {
+   "id": "p01",
+   "fecha": "2026-08-24",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p02",
+   "fecha": "2026-08-31",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p03",
+   "fecha": "2026-09-07",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p04",
+   "fecha": "2026-09-14",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p05",
+   "fecha": "2026-09-21",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p06",
+   "fecha": "2026-09-28",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p07",
+   "fecha": "2026-10-05",
+   "monto": 500,
+   "nota": ""
+  },
+  {
+   "id": "p08",
+   "fecha": "2026-10-12",
+   "monto": 500,
+   "nota": ""
+  }
+ ]
+}
